@@ -14,6 +14,7 @@ Install the required dependencies using the following command:
 pip install -r requirements.txt
 
 **Key Dependencies:**
+
 transformers (for T5 model-based question generation)
 
 pdfplumber (for extracting text from PDFs)
@@ -29,11 +30,14 @@ torch (for deep learning model execution)
 
 
 **Clone the repository:**
+
 git clone https://github.com/ShubhamJeeShrivastava/Most-Optimized-NLP-Multilingual-Processing-and-Question-Answering-.git
 
 cd Most-Optimized-NLP-Multilingual-Processing-and-Question-Answering-
 
 **Run the application:**
+
 streamlit run app.py
 
+then, 
 Upload a PDF or input text directly to generate and validate questions.
