@@ -10,6 +10,7 @@
 **Installation**
 
 **Dependencies**
+
 Install the required dependencies using the following command:
 
 pip install -r requirements.txt
