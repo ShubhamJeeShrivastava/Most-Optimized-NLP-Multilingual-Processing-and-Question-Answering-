@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ff35fa80-2967-4e04-965e-0f5d47d2f2e7)**About the Model**
+**About the Model**
 * This is a web-based application that allows users to upload PDFs in any language.
 * The system extracts text using PDFPlumber and preprocesses it with regex for better structuring.
 * Based on the document size, it dynamically selects either the **T5 model** or **Google Gemini AI** to generate relevant questions.
