@@ -25,7 +25,6 @@ gemini-api (for accessing Google's Gemini LLM API)
 
 pandas (for data handling and processing)
 
-torch (for deep learning model execution)
 
 
 
