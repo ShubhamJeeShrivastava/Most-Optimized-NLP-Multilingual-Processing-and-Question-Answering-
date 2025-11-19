@@ -39,4 +39,4 @@ cd Most-Optimized-NLP-Multilingual-Processing-and-Question-Answering-
 streamlit run app.py
 
 then, 
-Upload a PDF or input text directly to generate and validate questions.
+Upload a PDF or input text directly to generate and validate various questions.
